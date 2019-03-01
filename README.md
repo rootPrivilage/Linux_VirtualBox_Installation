@@ -1,5 +1,5 @@
-#### for eazy install execute the python Script :
-        
+#### for eazy install download and execute the python Script
+
 
 
 # Linux_VirtualBox_Installation
